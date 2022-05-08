@@ -1,0 +1,160 @@
+nohup: ignoring input
+Using TensorFlow backend.
+Epoch 1/100 - 1683s - loss: 0.0779 - acc: 0.9705 - val_loss: 0.0212 - val_acc: 0.9921
+Epoch 2/100 - 1679s - loss: 0.0307 - acc: 0.9893 - val_loss: 0.0361 - val_acc: 0.9927
+Epoch 3/100 - 1651s - loss: 0.0215 - acc: 0.9928 - val_loss: 0.0243 - val_acc: 0.9935
+Epoch 4/100 - 1835s - loss: 0.0183 - acc: 0.9942 - val_loss: 0.0338 - val_acc: 0.9946
+Epoch 5/100 - 1699s - loss: 0.0157 - acc: 0.9950 - val_loss: 0.0210 - val_acc: 0.9961
+Epoch 6/100 - 1617s - loss: 0.0134 - acc: 0.9958 - val_loss: 0.0324 - val_acc: 0.9944
+Epoch 7/100 - 1818s - loss: 0.0136 - acc: 0.9958 - val_loss: 0.0528 - val_acc: 0.9918
+Epoch 8/100 - 1629s - loss: 0.0119 - acc: 0.9964 - val_loss: 0.0215 - val_acc: 0.9955
+Epoch 9/100 - 1629s - loss: 0.0125 - acc: 0.9963 - val_loss: 0.0797 - val_acc: 0.9859
+Epoch 10/100 - 1631s - loss: 0.0118 - acc: 0.9965 - val_loss: 0.0333 - val_acc: 0.9938
+Epoch 11/100 - 1635s - loss: 0.0118 - acc: 0.9965 - val_loss: 0.0254 - val_acc: 0.9944
+Epoch 12/100 - 1630s - loss: 0.0108 - acc: 0.9970 - val_loss: 0.0304 - val_acc: 0.9946
+Epoch 13/100 - 1630s - loss: 0.0111 - acc: 0.9970 - val_loss: 0.0299 - val_acc: 0.9972
+Epoch 14/100 - 1658s - loss: 0.0110 - acc: 0.9969 - val_loss: 0.0816 - val_acc: 0.9870
+Epoch 15/100 - 1668s - loss: 0.0125 - acc: 0.9967 - val_loss: 0.0623 - val_acc: 0.9904
+Epoch 16/100 - 1668s - loss: 0.0118 - acc: 0.9968 - val_loss: 0.1085 - val_acc: 0.9868
+Epoch 17/100 - 1666s - loss: 0.0119 - acc: 0.9969 - val_loss: 0.0355 - val_acc: 0.9955
+Epoch 18/100 - 1664s - loss: 0.0120 - acc: 0.9970 - val_loss: 0.1458 - val_acc: 0.9811
+Epoch 19/100 - 1667s - loss: 0.0124 - acc: 0.9969 - val_loss: 0.0607 - val_acc: 0.9932
+Epoch 20/100 - 1670s - loss: 0.0129 - acc: 0.9969 - val_loss: 0.0572 - val_acc: 0.9924
+Epoch 21/100 - 1649s - loss: 0.0125 - acc: 0.9971 - val_loss: 0.0385 - val_acc: 0.9944
+Epoch 22/100 - 1624s - loss: 0.0122 - acc: 0.9969 - val_loss: 0.2890 - val_acc: 0.9696
+Epoch 23/100 - 1629s - loss: 0.0119 - acc: 0.9970 - val_loss: 0.0525 - val_acc: 0.9952
+Epoch 24/100 - 1627s - loss: 0.0122 - acc: 0.9969 - val_loss: 0.0325 - val_acc: 0.9963
+Epoch 25/100 - 1627s - loss: 0.0128 - acc: 0.9969 - val_loss: 0.1473 - val_acc: 0.9854
+Epoch 26/100 - 1636s - loss: 0.0124 - acc: 0.9969 - val_loss: 0.0536 - val_acc: 0.9946
+Epoch 27/100 - 1633s - loss: 0.0137 - acc: 0.9966 - val_loss: 0.1351 - val_acc: 0.9882
+Epoch 28/100 - 1629s - loss: 0.0121 - acc: 0.9971 - val_loss: 0.0651 - val_acc: 0.9949
+Epoch 29/100 - 1634s - loss: 0.0145 - acc: 0.9971 - val_loss: 0.0806 - val_acc: 0.9930
+Epoch 30/100 - 1632s - loss: 0.0147 - acc: 0.9969 - val_loss: 0.1117 - val_acc: 0.9899
+Epoch 31/100 - 1634s - loss: 0.0143 - acc: 0.9969 - val_loss: 0.0495 - val_acc: 0.9963
+Epoch 32/100 - 1632s - loss: 0.0168 - acc: 0.9967 - val_loss: 0.1247 - val_acc: 0.9913
+Epoch 33/100 - 1627s - loss: 0.0147 - acc: 0.9967 - val_loss: 0.0574 - val_acc: 0.9952
+Epoch 34/100 - 1634s - loss: 0.0145 - acc: 0.9968 - val_loss: 0.0531 - val_acc: 0.9949
+Epoch 35/100 - 1628s - loss: 0.0141 - acc: 0.9969 - val_loss: 0.0819 - val_acc: 0.9930
+Epoch 36/100 - 1630s - loss: 0.0164 - acc: 0.9965 - val_loss: 0.0571 - val_acc: 0.9946
+Epoch 37/100 - 1664s - loss: 0.0149 - acc: 0.9969 - val_loss: 0.0898 - val_acc: 0.9915
+Epoch 38/100 - 1666s - loss: 0.0143 - acc: 0.9969 - val_loss: 0.0357 - val_acc: 0.9966
+Epoch 39/100 - 1664s - loss: 0.0161 - acc: 0.9968 - val_loss: 0.0879 - val_acc: 0.9938
+Epoch 40/100 - 1658s - loss: 0.0176 - acc: 0.9966 - val_loss: 0.0881 - val_acc: 0.9935
+Epoch 41/100 - 1527s - loss: 0.0163 - acc: 0.9968 - val_loss: 0.0534 - val_acc: 0.9958
+Epoch 42/100 - 1388s - loss: 0.0146 - acc: 0.9969 - val_loss: 0.0756 - val_acc: 0.9946
+Epoch 43/100 - 1398s - loss: 0.0139 - acc: 0.9972 - val_loss: 0.1390 - val_acc: 0.9893
+Epoch 44/100 - 1416s - loss: 0.0153 - acc: 0.9971 - val_loss: 0.0636 - val_acc: 0.9941
+Epoch 45/100 - 1416s - loss: 0.0147 - acc: 0.9968 - val_loss: 0.1118 - val_acc: 0.9904
+Epoch 46/100 - 1395s - loss: 0.0144 - acc: 0.9970 - val_loss: 0.0454 - val_acc: 0.9958
+Epoch 47/100 - 1558s - loss: 0.0147 - acc: 0.9971 - val_loss: 0.0521 - val_acc: 0.9958
+Epoch 48/100 - 1667s - loss: 0.0182 - acc: 0.9966 - val_loss: 0.2525 - val_acc: 0.9780
+Epoch 49/100 - 1608s - loss: 0.0160 - acc: 0.9971 - val_loss: 0.2120 - val_acc: 0.9851
+Epoch 50/100 - 615s - loss: 0.0200 - acc: 0.9966 - val_loss: 0.0955 - val_acc: 0.9935
+Epoch 51/100 - 611s - loss: 0.0259 - acc: 0.9957 - val_loss: 0.0810 - val_acc: 0.9944
+Epoch 52/100 - 614s - loss: 0.0270 - acc: 0.9955 - val_loss: 0.0611 - val_acc: 0.9958
+Epoch 53/100 - 613s - loss: 0.0154 - acc: 0.9972 - val_loss: 0.0613 - val_acc: 0.9952
+Epoch 54/100 - 611s - loss: 0.0226 - acc: 0.9957 - val_loss: 0.1053 - val_acc: 0.9924
+Epoch 55/100 - 614s - loss: 0.0161 - acc: 0.9971 - val_loss: 0.1468 - val_acc: 0.9896
+Epoch 56/100 - 611s - loss: 0.0185 - acc: 0.9972 - val_loss: 0.0935 - val_acc: 0.9935
+Epoch 57/100 - 614s - loss: 0.0236 - acc: 0.9958 - val_loss: 0.0661 - val_acc: 0.9946
+Epoch 58/100 - 613s - loss: 0.0158 - acc: 0.9970 - val_loss: 0.0629 - val_acc: 0.9944
+Epoch 59/100 - 612s - loss: 0.0279 - acc: 0.9964 - val_loss: 0.1120 - val_acc: 0.9921
+Epoch 60/100 - 614s - loss: 0.0266 - acc: 0.9957 - val_loss: 0.0440 - val_acc: 0.9961
+Epoch 61/100 - 614s - loss: 0.0347 - acc: 0.9948 - val_loss: 0.0676 - val_acc: 0.9949
+Epoch 62/100 - 613s - loss: 0.0278 - acc: 0.9957 - val_loss: 0.0722 - val_acc: 0.9941
+Epoch 63/100 - 611s - loss: 0.0264 - acc: 0.9963 - val_loss: 0.0256 - val_acc: 0.9966
+Epoch 64/100 - 612s - loss: 0.0167 - acc: 0.9971 - val_loss: 0.0501 - val_acc: 0.9952
+Epoch 65/100 - 614s - loss: 0.0210 - acc: 0.9966 - val_loss: 0.1202 - val_acc: 0.9907
+Epoch 66/100 - 612s - loss: 0.0307 - acc: 0.9948 - val_loss: 0.0366 - val_acc: 0.9955
+Epoch 67/100 - 612s - loss: 0.0206 - acc: 0.9967 - val_loss: 0.1540 - val_acc: 0.9901
+Epoch 68/100 - 616s - loss: 0.0258 - acc: 0.9963 - val_loss: 0.0588 - val_acc: 0.9958
+Epoch 69/100 - 613s - loss: 0.0220 - acc: 0.9962 - val_loss: 0.0431 - val_acc: 0.9958
+Epoch 70/100 - 612s - loss: 0.0199 - acc: 0.9964 - val_loss: 0.0389 - val_acc: 0.9972
+Epoch 71/100 - 613s - loss: 0.0199 - acc: 0.9965 - val_loss: 0.0415 - val_acc: 0.9966
+Epoch 72/100 - 614s - loss: 0.0228 - acc: 0.9963 - val_loss: 0.0300 - val_acc: 0.9975
+Epoch 73/100 - 611s - loss: 0.0274 - acc: 0.9954 - val_loss: 0.0316 - val_acc: 0.9963
+Epoch 74/100 - 611s - loss: 0.0570 - acc: 0.9934 - val_loss: 0.0598 - val_acc: 0.9944
+Epoch 75/100 - 616s - loss: 0.0634 - acc: 0.9927 - val_loss: 0.0629 - val_acc: 0.9944
+Epoch 76/100 - 612s - loss: 0.0206 - acc: 0.9967 - val_loss: 0.1540 - val_acc: 0.9901
+Epoch 77/100 - 835s - loss: 0.0260 - acc: 0.9959 - val_loss: 0.0387 - val_acc: 0.9966
+Epoch 78/100 - 834s - loss: 0.0295 - acc: 0.9955 - val_loss: 0.0560 - val_acc: 0.9930
+Epoch 79/100 - 820s - loss: 0.0283 - acc: 0.9955 - val_loss: 0.0656 - val_acc: 0.9946
+Epoch 80/100 - 825s - loss: 0.0342 - acc: 0.9955 - val_loss: 0.0580 - val_acc: 0.9935
+Epoch 81/100 - 818s - loss: 0.0383 - acc: 0.9940 - val_loss: 0.0566 - val_acc: 0.9958
+Epoch 82/100 - 822s - loss: 0.0353 - acc: 0.9952 - val_loss: 0.0317 - val_acc: 0.9972
+Epoch 83/100 - 815s - loss: 0.0264 - acc: 0.9964 - val_loss: 0.0387 - val_acc: 0.9969
+Epoch 84/100 - 802s - loss: 0.0424 - acc: 0.9947 - val_loss: 0.0922 - val_acc: 0.9865
+Epoch 85/100 - 720s - loss: 0.0501 - acc: 0.9928 - val_loss: 0.0383 - val_acc: 0.9952
+Epoch 86/100 - 723s - loss: 0.0364 - acc: 0.9949 - val_loss: 0.0630 - val_acc: 0.9952
+Epoch 87/100 - 724s - loss: 0.0551 - acc: 0.9923 - val_loss: 0.0555 - val_acc: 0.9952
+Epoch 88/100 - 732s - loss: 0.0454 - acc: 0.9941 - val_loss: 0.0272 - val_acc: 0.9966
+Epoch 89/100 - 758s - loss: 0.0465 - acc: 0.9934 - val_loss: 0.0653 - val_acc: 0.9941
+Epoch 90/100 - 768s - loss: 0.0424 - acc: 0.9938 - val_loss: 0.0301 - val_acc: 0.9969
+Epoch 91/100 - 756s - loss: 0.0262 - acc: 0.9960 - val_loss: 0.0196 - val_acc: 0.9969
+Epoch 92/100 - 753s - loss: 0.0445 - acc: 0.9933 - val_loss: 0.0333 - val_acc: 0.9972
+Epoch 93/100 - 747s - loss: 0.0467 - acc: 0.9937 - val_loss: 0.0246 - val_acc: 0.9972
+Epoch 94/100 - 735s - loss: 0.0504 - acc: 0.9934 - val_loss: 0.0542 - val_acc: 0.9949
+Epoch 95/100 - 743s - loss: 0.0467 - acc: 0.9934 - val_loss: 0.0392 - val_acc: 0.9941
+Epoch 96/100 - 819s - loss: 0.0321 - acc: 0.9950 - val_loss: 0.1396 - val_acc: 0.9851
+Epoch 97/100 - 825s - loss: 0.0423 - acc: 0.9938 - val_loss: 0.0208 - val_acc: 0.9975
+Epoch 98/100 - 840s - loss: 0.1757 - acc: 0.9857 - val_loss: 0.6674 - val_acc: 0.9586
+Epoch 99/100 - 845s - loss: 0.1826 - acc: 0.9864 - val_loss: 0.2871 - val_acc: 0.9820
+Epoch 100/100 - 842s - loss: 0.1202 - acc: 0.9857 - val_loss: 0.0449 - val_acc: 0.9958
+_________________________________________________________________
+Layer (type)                 Output Shape              Param #   
+=================================================================
+filter1 (Conv2D)             (None, 64, 64, 20)        560       
+_________________________________________________________________
+activation_1 (Activation)    (None, 64, 64, 20)        0         
+_________________________________________________________________
+max1 (MaxPooling2D)          (None, 32, 32, 20)        0         
+_________________________________________________________________
+dropout_1 (Dropout)          (None, 32, 32, 20)        0         
+_________________________________________________________________
+filter2 (Conv2D)             (None, 32, 32, 30)        5430      
+_________________________________________________________________
+activation_2 (Activation)    (None, 32, 32, 30)        0         
+_________________________________________________________________
+max2 (MaxPooling2D)          (None, 16, 16, 30)        0         
+_________________________________________________________________
+filter3 (Conv2D)             (None, 16, 16, 50)        37550     
+_________________________________________________________________
+activation_3 (Activation)    (None, 16, 16, 50)        0         
+_________________________________________________________________
+max3 (MaxPooling2D)          (None, 8, 8, 50)          0         
+_________________________________________________________________
+dropout_2 (Dropout)          (None, 8, 8, 50)          0         
+_________________________________________________________________
+flatten_1 (Flatten)          (None, 3200)              0         
+_________________________________________________________________
+dense_1 (Dense)              (None, 250)               800250    
+_________________________________________________________________
+dropout_3 (Dropout)          (None, 250)               0         
+_________________________________________________________________
+activation_4 (Activation)    (None, 250)               0         
+_________________________________________________________________
+dense_2 (Dense)              (None, 2)                 502       
+_________________________________________________________________
+activation_5 (Activation)    (None, 2)                 0         
+=================================================================
+Total params: 844,292
+Trainable params: 844,292
+Non-trainable params: 0
+_________________________________________________________________
+None
+MoTTY X11 proxy: Authorisation not recognised
+MoTTY X11 proxy: Authorisation not recognised
+Traceback (most recent call last):
+  File "train.py", line 102, in <module>
+    run(train, test)
+  File "train.py", line 77, in run
+    plt.figure()
+  File "/usr/local/lib/python3.5/dist-packages/matplotlib/pyplot.py", line 548, in figure
+    **kwargs)
+  File "/usr/local/lib/python3.5/dist-packages/matplotlib/backend_bases.py", line 161, in new_figure_manager
+    return cls.new_figure_manager_given_figure(num, fig)
+  File "/usr/local/lib/python3.5/dist-packages/matplotlib/backends/_backend_tk.py", line 1044, in new_figure_manager_given_figure
+    window = Tk.Tk(className="matplotlib")
+  File "/usr/lib/python3.5/tkinter/__init__.py", line 1871, in __init__
+    self.tk = _tkinter.create(screenName, baseName, className, interactive, wantobjects, useTk, sync, use)
+_tkinter.TclError: couldn't connect to display "localhost:13.0"
